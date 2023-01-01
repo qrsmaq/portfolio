@@ -7,15 +7,15 @@ export const info = {
   experience: [
     {
       name: "Prime Trust (Remote)",
-      location: "Los Vegas, Nevada, United States",
+      location: "Las Vegas, Nevada, United States",
       startDate: "Jul 2022",
       endDate: "Present",
       description: [
         "✓ Developing code in accordance with appropriate design and architectural rules",
         "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Others tasks connected to the nature of the job",
         "✓ Code Improvements and Refactoring ",
         "✓ Best Practices and Rules Maintainer",
+        "✓ Others tasks connected to the nature of the job",
       ],
     },
 
